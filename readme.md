@@ -24,7 +24,7 @@ git clone https://github.com/michalpelka/mandeye_to_bag.git
 3. Initialize third-party repositories:
 ```
 cd ~/mandeye_ws/src/mandeye_to_bag
-vcs import --input mandeye_to_bag1/livox.repos 
+vcs import --input mandeye_to_rosbag1/livox.repos 
 ```
 
 4. Initilize sumbodules
